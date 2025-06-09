@@ -1,5 +1,6 @@
 ﻿class Visualizer{
     static drawNetwork(ctx,network){
+        //set canvas
         const margin=50;
         const left=margin;
         const top=margin;
